@@ -16,7 +16,7 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [Attachment.GridlineStyleLeft property (Access)](https://msdn.microsoft.com/library/0a67119c-035e-157d-f47d-4f5cd3f356c8%28Office.15%29.aspx)
 - [BoundObjectFrame.GridlineStyleLeft property (Access)](https://msdn.microsoft.com/library/1933af20-09e9-8a62-a127-cbd40b872b1c%28Office.15%29.aspx)
-- [Chart.GridlineStyleLeft property (Access)](../api/access.chart.md)
+- [Chart object (Access)](../api/access.chart.md)
 - [CheckBox.GridlineStyleLeft property (Access)](https://msdn.microsoft.com/library/c4a0cf6d-488c-5978-d3db-184909c79723%28Office.15%29.aspx)
 - [ComboBox.GridlineStyleLeft property (Access)](https://msdn.microsoft.com/library/00bb1dfe-ce6f-2bcc-75c6-bd1088d1c656%28Office.15%29.aspx)
 - [CommandButton.GridlineStyleLeft property (Access)](https://msdn.microsoft.com/library/4e98dccd-e0d6-b24c-0a7a-f8dd54907fa0%28Office.15%29.aspx)
